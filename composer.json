@@ -1,0 +1,16 @@
+{
+    "name": "app/simulacao",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\Simulacao\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "cintia sabrina",
+            "email": "cintiasabrina.tumps@gmail.com"
+        }
+    ],
+    "require": {}
+}
